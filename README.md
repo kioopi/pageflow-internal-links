@@ -7,7 +7,7 @@ Page types for linking to pages inside a Pageflow.
 Add this line to your application's Gemfile:
 
     # Gemfile
-    gem 'pagflow-internal-links'
+    gem 'pageflow-internal-links'
 
 Register the page types:
 
